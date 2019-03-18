@@ -7,7 +7,7 @@ Created on Sun Mar 17 01:12:41 2019
 
 #-----------------------------------
 # FEATURE EXTRACTION OF TEST DATA
-#-----------------------------------
+#---------------------------------
 
 # import the necessary packages
 
